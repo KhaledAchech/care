@@ -1,0 +1,12 @@
+{
+    "name": "love-website",
+    "version": "1.0.0",
+    "description": "A simple responsive website with an animated heart.",
+    "scripts": {
+      "start": "serve -s ."
+    },
+    "dependencies": {
+      "serve": "^14.2.0"
+    }
+  }
+  
